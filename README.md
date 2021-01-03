@@ -1,5 +1,7 @@
 # Web Scraping using Python
 
+Read this before you start. 
+
 There are three Jupyter Notebooks (as of now). And they are:
 
 1. GoogleWebScrape.ipynb - Here, the result will return first page of the Google search result of whatever input query you put. For example, I have put "J. Cole" as the query input. You can put anything and see for yourself. The result will return the title and the link of the Google search result. 
@@ -36,4 +38,4 @@ Price section that is the price of the book
 
 ![](ScreenshotsIgnore/AmazonBooksSS7.png) 
 
-### You can either run the Python scripts or the Jupyter Notebook whatever you prefer. 
+### You can either run the Python scripts or the Jupyter Notebook whatever you prefer. I have provided both the Python scripts and the Jupyter Notebook. 
