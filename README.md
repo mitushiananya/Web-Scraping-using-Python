@@ -38,4 +38,6 @@ Price section that is the price of the book
 
 ![](ScreenshotsIgnore/AmazonBooksSS7.png) 
 
+4. NBAPredictions.ipynb - Here, the input url is https://projects.fivethirtyeight.com/2021-nba-predictions/. The data turned out to be an HTML Table after I inspected the website. So, first extracted the HTML Table and then converted it to a CSV File. 
+
 ### You can either run the Python scripts or the Jupyter Notebook whatever you prefer. I have provided both the Python scripts and the Jupyter Notebook. 
